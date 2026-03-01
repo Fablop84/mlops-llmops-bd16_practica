@@ -23,7 +23,12 @@ En esta etapa se trabajó con el dataset de reseñas de Amazon **`Musical_Instru
 2.  **Limpieza y Preprocesamiento:** Tratamiento de valores nulos y tokenización inicial de textos.
 3.  **Análisis Exploratorio:** Visualización de tendencias en las valoraciones de los usuarios sobre instrumentos musicales.
 
-## 📈 Fase 2: Gestión del Ciclo de Vida con MLflow
+## 📈 Fase 2: Modelamiento
+1. **Modelo sin ajustar:** Se procesó un modelo con una limpieza y normalización básica, se realizaron las predicciones en train y test, se conocía de antemano el desbalanceo.
+2. **Modelo ajustado:** Se procesó un modelo con una limpieza y normalización más robusta (función híbrida de tokenización y lematización), además de ajustar las muestras con Undersampling para corregir desbalanceo.
+Se realizaron las predicciones en train y test con mejores resultados que el modelo sin ajustar.
+
+## 📈 Fase 3: Gestión del Ciclo de Vida con MLflow
 
 Para el seguimiento de experimentos y la reproducibilidad del modelo, se ha integrado **MLflow**, cuyos registros se almacenan en el directorio local `/mlruns`.
 
