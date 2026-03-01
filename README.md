@@ -39,8 +39,8 @@ En el notebook `mlops-llmops-practica-final-fabian-lopez.ipynb` se han documenta
 2.  **Métricas de Rendimiento:** Almacenamiento de métricas clave como *Accuracy* y *Recall* para comparar diferentes versiones de modelos.
 3.  **Registro de Artefactos:** Guardado de los modelos entrenados y visualizaciones generadas directamente en el servidor de MLflow.
 4.  **Análisis de Resultados:** Evaluación de la eficacia de los modelos de análisis de sentimientos aplicados al dataset de instrumentos musicales.
-5.  **Nota:** El dataset fue el mismo que en la práctica de NLP, el cual estaba desbalanceado, gracias al procesamiento de las muestras y de capturar los sentimientos de las opiniones adecuadamente (stopwords sin negaciones)
-   el modelo mejoró sus métricas.
+5.  **Nota:** El dataset fue el mismo que en la práctica de NLP, el cual estaba desbalanceado, gracias al procesamiento de las muestras y de capturar los sentimientos de las opiniones adecuadamente (stopwords sin negaciones) el modelo mejoró sus métricas.
+6.  **Evidencias:** El notebook incluye celdas de Markdown con capturas de pantalla que documentan la interfaz del servidor local de MLflow y los experimentos registrados.
 ---
 
 ## 🚀 Parte 2: Despliegue de API (FastAPI + Hugging Face)
