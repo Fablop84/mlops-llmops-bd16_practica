@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/fablo/BootCamp/mlops-llmops-bd16_practica/mlruns/500483373590975534/46e6991c94f7463098e5b85954a01717/artifacts
+end_time: 1772328172856
+entry_point_name: ''
+experiment_id: '500483373590975534'
+lifecycle_stage: active
+run_id: 46e6991c94f7463098e5b85954a01717
+run_name: Modelo_Mejorado_Undersampling
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772328172824
+status: 3
+tags: []
+user_id: fablo

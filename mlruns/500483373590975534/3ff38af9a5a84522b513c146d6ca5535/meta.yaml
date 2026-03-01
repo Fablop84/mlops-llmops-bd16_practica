@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/fablo/BootCamp/mlops-llmops-bd16_practica/mlruns/500483373590975534/3ff38af9a5a84522b513c146d6ca5535/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '500483373590975534'
+lifecycle_stage: active
+run_id: 3ff38af9a5a84522b513c146d6ca5535
+run_name: Modelo_Base_Desbalanceado
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772324049209
+status: 1
+tags: []
+user_id: fablo

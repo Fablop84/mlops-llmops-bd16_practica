@@ -1,0 +1,23 @@
+artifact_path: file:///c:/Users/fablo/BootCamp/mlops-llmops-bd16_practica/mlruns/500483373590975534/models/m-aae3e75098e64f3d820ec96b32aa3d3e/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.19
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-aae3e75098e64f3d820ec96b32aa3d3e
+model_size_bytes: 20726
+model_uuid: m-aae3e75098e64f3d820ec96b32aa3d3e
+prompts: null
+run_id: 0e69fc0212a74fad86b3fa2e9812fae2
+utc_time_created: '2026-03-01 02:18:32.148924'

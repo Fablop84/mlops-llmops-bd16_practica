@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/fablo/BootCamp/mlops-llmops-bd16_practica/mlruns/500483373590975534/0e69fc0212a74fad86b3fa2e9812fae2/artifacts
+end_time: 1772331515992
+entry_point_name: ''
+experiment_id: '500483373590975534'
+lifecycle_stage: active
+run_id: 0e69fc0212a74fad86b3fa2e9812fae2
+run_name: Modelo_Final_Instrumentos_PKL
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772331512102
+status: 3
+tags: []
+user_id: fablo

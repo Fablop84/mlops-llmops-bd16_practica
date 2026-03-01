@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/fablo/BootCamp/mlops-llmops-bd16_practica/mlruns/500483373590975534/models/m-aae3e75098e64f3d820ec96b32aa3d3e/artifacts
+creation_timestamp: 1772331512133
+experiment_id: '500483373590975534'
+last_updated_timestamp: 1772331515987
+model_id: m-aae3e75098e64f3d820ec96b32aa3d3e
+model_type: null
+name: model
+source_run_id: 0e69fc0212a74fad86b3fa2e9812fae2
+status: 2
+status_message: null
