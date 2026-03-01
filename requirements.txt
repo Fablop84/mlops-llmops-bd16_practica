@@ -1,0 +1,21 @@
+# --- Framework de API ---
+fastapi[standard]==0.115.0
+uvicorn==0.30.6
+nest-asyncio==1.6.0
+
+# --- Procesamiento de Datos y ML ---
+pandas==2.2.2
+numpy==1.26.4
+
+# --- Inteligencia Artificial (Hugging Face) ---
+transformers==4.44.2
+torch==2.4.1
+torchvision==0.19.1
+torchaudio==2.4.1
+
+# --- Gestión del Ciclo de Vida (MLflow) ---
+mlflow==2.16.2
+
+# --- Utilidades para Notebooks ---
+ipykernel==6.29.5
+ipywidgets==8.1.5
